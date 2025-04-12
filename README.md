@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anmol Kumar
 - 👀 I’m interested in Coding.
-- 🌱 React Native Developer
+- 🌱 Full Stack Developer
 
 <!---
 Anmol-Kumar-192001/Anmol-Kumar-192001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
